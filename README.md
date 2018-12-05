@@ -1,4 +1,4 @@
-# OpticalForcesInOpticalTweezers
+# Optical Forces In Optical Tweezers
 
 ## Mission statement
 This open source project is for Mathematica implementations of optical forces in optical tweezers. It relies on the generalized Lorenz-Mie theory (GLMT) and the highly focused beam described by angular spectrum representation. Other contributions towards writing this code in R, Phyton, and other programming languages are welcomed.
