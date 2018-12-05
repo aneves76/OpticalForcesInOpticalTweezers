@@ -1,1 +1,9 @@
 # OpticalForcesInOpticalTweezers
+
+## Mission statement
+This open source project is for Mathematica implementations of statistical and machine learning algorithms that can be used for data analysis, prediction, and recommendation systems.
+
+## License matters
+All code files and executable documents are with the license GPL 3.0. For details see (http://www.gnu.org/licenses/)[http://www.gnu.org/licenses/].
+
+All documents are with the license Creative Commons Attribution 4.0 International (CC BY 4.0). For details see (https://creativecommons.org/licenses/by/4.0/)[https://creativecommons.org/licenses/by/4.0/].
